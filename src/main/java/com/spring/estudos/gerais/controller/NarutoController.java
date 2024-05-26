@@ -1,9 +1,8 @@
 package com.spring.estudos.gerais.controller;
 
-import com.spring.estudos.gerais.domain.dto.AllCharactersNarutoResponse;
-import com.spring.estudos.gerais.domain.dto.NarutoDto;
+import com.spring.estudos.gerais.domain.dto.naruto.AllCharactersNarutoResponse;
+import com.spring.estudos.gerais.domain.dto.naruto.NarutoDto;
 import com.spring.estudos.gerais.external.NarutoFeignApi;
-import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

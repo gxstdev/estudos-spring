@@ -1,6 +1,5 @@
-package com.spring.estudos.gerais.domain.dto;
+package com.spring.estudos.gerais.domain.dto.cliente;
 
-import io.swagger.v3.oas.models.security.SecurityScheme;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package com.spring.estudos.gerais.domain;
+package com.spring.estudos.gerais.domain.dto.naruto;
 
 import lombok.Getter;
 

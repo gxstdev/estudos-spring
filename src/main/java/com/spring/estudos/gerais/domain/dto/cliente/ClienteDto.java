@@ -1,4 +1,4 @@
-package com.spring.estudos.gerais.domain.dto;
+package com.spring.estudos.gerais.domain.dto.cliente;
 
 import jakarta.validation.constraints.Email;
 import lombok.*;

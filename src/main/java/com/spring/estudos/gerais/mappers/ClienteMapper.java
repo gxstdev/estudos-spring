@@ -1,7 +1,7 @@
 package com.spring.estudos.gerais.mappers;
 
-import com.spring.estudos.gerais.domain.dto.ClienteDto;
-import com.spring.estudos.gerais.domain.dto.ClienteDtoResponse;
+import com.spring.estudos.gerais.domain.dto.cliente.ClienteDto;
+import com.spring.estudos.gerais.domain.dto.cliente.ClienteDtoResponse;
 
 public class ClienteMapper {
     public static ClienteDtoResponse toDtoResponse(ClienteDto dto){

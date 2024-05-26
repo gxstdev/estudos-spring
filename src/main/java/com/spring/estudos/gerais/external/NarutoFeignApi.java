@@ -1,7 +1,7 @@
 package com.spring.estudos.gerais.external;
 
-import com.spring.estudos.gerais.domain.dto.AllCharactersNarutoResponse;
-import com.spring.estudos.gerais.domain.dto.NarutoDto;
+import com.spring.estudos.gerais.domain.dto.naruto.AllCharactersNarutoResponse;
+import com.spring.estudos.gerais.domain.dto.naruto.NarutoDto;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.stereotype.Service;
 import org.springframework.web.bind.annotation.GetMapping;

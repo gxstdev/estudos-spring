@@ -1,6 +1,5 @@
-package com.spring.estudos.gerais.domain.dto;
+package com.spring.estudos.gerais.domain.dto.naruto;
 
-import com.spring.estudos.gerais.domain.Debut;
 import lombok.Data;
 
 import java.util.List;
