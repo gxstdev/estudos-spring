@@ -1,4 +1,4 @@
-package com.spring.estudos.gerais.mappers;
+package com.spring.estudos.gerais.mapper;
 
 import com.spring.estudos.gerais.domain.dto.cliente.ClienteDto;
 import com.spring.estudos.gerais.domain.dto.cliente.ClienteDtoResponse;

@@ -2,7 +2,7 @@ package com.spring.estudos.gerais.controller;
 
 import com.spring.estudos.gerais.domain.dto.cliente.*;
 import com.spring.estudos.gerais.external.ClienteFeignApi;
-import com.spring.estudos.gerais.mappers.ClienteMapper;
+import com.spring.estudos.gerais.mapper.ClienteMapper;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
